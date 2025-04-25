@@ -58,3 +58,11 @@
 [16:34:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:43894|Phygi_64] -> UpstreamBridge has disconnected
 [16:34:03] [Netty Worker IO Thread #3/INFO]: [Phygi_64] disconnected with: Proxy lost connection to server.
 [16:34:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:43894|Phygi_64] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:36:22] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48098]: Connected via websocket
+[16:36:22] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48098]: Origin header is https://x.mess.eu.org
+[16:36:22] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48098]: Logged in as 'Phygi_64'
+[16:36:22] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:48098|Phygi_64] -> UpstreamBridge has connected
+[16:36:22] [Netty Worker IO Thread #2/INFO]: [Phygi_64|/[0:0:0:0:0:0:0:1%0]:48098] <-> ServerConnector [lobby] has connected
+[16:37:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:48098|Phygi_64] -> UpstreamBridge has disconnected
+[16:37:12] [Netty Worker IO Thread #2/INFO]: [Phygi_64] disconnected with: Proxy lost connection to server.
+[16:37:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:48098|Phygi_64] <-> DownstreamBridge <-> [lobby] has disconnected
