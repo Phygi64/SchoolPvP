@@ -55,12 +55,6 @@ world-settings:
       soft: 32
       hard: 128
     falling-block-height-nerf: 0
-    remove-invalid-mob-spawner-tile-entities: true
-    player-blocking-damage-multiplier: 0.5
-    lava-flow-speed:
-      normal: 30
-      nether: 10
-    disable-teleportation-suffocation-check: false
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
@@ -70,6 +64,9 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
+    remove-invalid-mob-spawner-tile-entities: true
+    player-blocking-damage-multiplier: 0.5
+    disable-teleportation-suffocation-check: false
     nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
@@ -78,18 +75,21 @@ world-settings:
     fast-drain:
       lava: false
       water: false
+    lava-flow-speed:
+      normal: 30
+      nether: 10
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
     tnt-entity-height-nerf: 0
-    use-hopper-check: false
     all-chunks-are-slime-chunks: false
     allow-undead-horse-leashing: false
+    use-hopper-check: false
     container-update-tick-rate: 1
+    keep-spawn-loaded: true
     falling-blocks-collide-with-signs: false
     disable-mood-sounds: false
     use-async-lighting: false
-    keep-spawn-loaded: true
     portal-search-radius: 128
     disable-thunder: false
     disable-ice-and-snow: false

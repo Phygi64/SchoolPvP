@@ -1,17 +1,17 @@
 lastAccountName: Phygi_64
 timestamps:
-  login: 1745512664497
+  login: 1745598604398
   kits:
     dtools: 1745417739212
-  logout: 1745512704961
+  logout: 1745598843634
 ipAddress: 0:0:0:0:0:0:0:1
 logoutlocation:
   world: world
-  x: 129.09997196814572
+  x: 128.698711525165
   y: 63.0
-  z: -230.96596970490077
-  yaw: 183.75002
-  pitch: 90.0
+  z: -230.7561457039893
+  yaw: 38.4
+  pitch: 48.149998
 lastlocation:
   world: world
   x: -106.25522463259838
