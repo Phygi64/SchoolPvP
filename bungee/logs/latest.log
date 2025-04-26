@@ -124,3 +124,10 @@
 [13:35:13] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60212]: Logged in as 'Soristos_3310'
 [13:35:13] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60212|Soristos_3310] -> UpstreamBridge has connected
 [13:35:13] [Netty Worker IO Thread #3/INFO]: [Soristos_3310|/[0:0:0:0:0:0:0:1%0]:60212] <-> ServerConnector [lobby] has connected
+[13:57:37] [Netty Worker IO Thread #3/INFO]: [Soristos_3310] disconnected with: Server closed
+[13:57:37] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60212|Soristos_3310] -> UpstreamBridge has disconnected
+[13:57:37] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60212|Soristos_3310] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:57:37] [Netty Worker IO Thread #2/WARN]: [/[0:0:0:0:0:0:0:1%0]:58088|Phygi_64] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:57:37] [Netty Worker IO Thread #2/INFO]: [Phygi_64] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[13:57:37] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58088|Phygi_64] -> UpstreamBridge has disconnected
+[13:57:37] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58088|Phygi_64] <-> DownstreamBridge <-> [lobby] has disconnected
