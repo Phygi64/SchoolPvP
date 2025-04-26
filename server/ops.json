@@ -4,5 +4,11 @@
     "name": "Phygi_64",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "033f03f2-f496-3803-8070-21c7e019e636",
+    "name": "Soristos_3310",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

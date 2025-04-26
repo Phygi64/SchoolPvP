@@ -1,0 +1,9 @@
+# This file should not need modification by the user
+storageType: YAML
+teamNameLookup:
+- france:7c62f49b-bad9-4d73-b38f-25a26079dbf0
+- japon:5dce6eab-e48a-4007-aa1e-76054d7f836a
+playerLookup:
+- 033f03f2-f496-3803-8070-21c7e019e636:7c62f49b-bad9-4d73-b38f-25a26079dbf0
+- 0ff89696-9d9a-34b0-996d-c9115a4146d0:5dce6eab-e48a-4007-aa1e-76054d7f836a
+chestClaims: []

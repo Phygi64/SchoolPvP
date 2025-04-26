@@ -1,0 +1,20 @@
+lastAccountName: Soristos_3310
+timestamps:
+  login: 1745673166227
+  logout: 1745673139816
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 252.69999998807907
+  y: 64.62719449853724
+  z: -215.11569792234758
+  yaw: -28.65001
+  pitch: 22.650003
+logoutlocation:
+  world: world
+  x: -140.22496072986743
+  y: 58.0
+  z: -162.18899597373036
+  yaw: 89.1001
+  pitch: 43.799995
+afk: true
