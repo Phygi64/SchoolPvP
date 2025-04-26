@@ -1,6 +1,6 @@
 lastAccountName: Phygi_64
 timestamps:
-  login: 1745673958112
+  login: 1745674471589
   kits:
     notch: 1745659239866
     dtools: 1745659219564
@@ -15,9 +15,9 @@ logoutlocation:
   pitch: 45.450012
 lastlocation:
   world: world
-  x: 245.30750325172465
+  x: 247.2982568454612
   y: 63.0
-  z: -216.95048198866223
-  yaw: 64.94981
-  pitch: 90.0
-afk: false
+  z: -213.284971951099
+  yaw: 130.64998
+  pitch: 70.500015
+afk: true

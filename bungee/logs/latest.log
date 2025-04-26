@@ -114,3 +114,13 @@
 [13:26:28] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52992|Phygi_64] -> UpstreamBridge has disconnected
 [13:26:28] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52992|Phygi_64] <-> DownstreamBridge <-> [lobby] has disconnected
 [13:31:42] [main/INFO]: Command not found
+[13:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58088]: Connected via websocket
+[13:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58088]: Origin header is https://x.mess.eu.org
+[13:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58088]: Logged in as 'Phygi_64'
+[13:34:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58088|Phygi_64] -> UpstreamBridge has connected
+[13:34:31] [Netty Worker IO Thread #2/INFO]: [Phygi_64|/[0:0:0:0:0:0:0:1%0]:58088] <-> ServerConnector [lobby] has connected
+[13:35:13] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60212]: Connected via websocket
+[13:35:13] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60212]: Origin header is https://eagler-clients.vercel.app
+[13:35:13] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60212]: Logged in as 'Soristos_3310'
+[13:35:13] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60212|Soristos_3310] -> UpstreamBridge has connected
+[13:35:13] [Netty Worker IO Thread #3/INFO]: [Soristos_3310|/[0:0:0:0:0:0:0:1%0]:60212] <-> ServerConnector [lobby] has connected

@@ -37,7 +37,6 @@ world-settings:
     allow-block-location-tab-completion: true
     optimize-explosions: false
     mob-spawner-tick-rate: 1
-    cache-chunk-maps: false
     tnt-explosion-volume: 4.0
     squid-spawn-height:
       minimum: 45.0
@@ -59,15 +58,15 @@ world-settings:
       enderpearls: true
       tnt-entities: true
       falling-blocks: true
+    nether-ceiling-void-damage: false
+    player-blocking-damage-multiplier: 0.5
+    disable-teleportation-suffocation-check: false
+    remove-invalid-mob-spawner-tile-entities: true
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
-    player-blocking-damage-multiplier: 0.5
-    disable-teleportation-suffocation-check: false
-    remove-invalid-mob-spawner-tile-entities: true
-    nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
       tnt-entities: false
@@ -78,6 +77,7 @@ world-settings:
     lava-flow-speed:
       normal: 30
       nether: 10
+    cache-chunk-maps: false
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
