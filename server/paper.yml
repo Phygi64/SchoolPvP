@@ -65,8 +65,8 @@ world-settings:
       disable-chest-cat-detection: false
       disable-end-credits: false
     player-blocking-damage-multiplier: 0.5
-    remove-invalid-mob-spawner-tile-entities: true
     disable-teleportation-suffocation-check: false
+    remove-invalid-mob-spawner-tile-entities: true
     nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
